@@ -1,0 +1,5 @@
+.env
+*.log
+.docker/
+data/
+node_modules/
